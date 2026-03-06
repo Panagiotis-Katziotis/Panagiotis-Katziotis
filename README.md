@@ -1,7 +1,7 @@
 ## Hi there
 
 # About Me:
-I'm curenlty working on some personal project (Swan Browser, HeronOS)<br>and some, less serious, side-projects<br>Also I'm into Linux, Cybersecurity and Open-Source Technologies
+I'm curenlty working on some personal project (Swan Browser, HeronOS)<br>and some side-projects<br>Also I'm into Linux, Cybersecurity and Open-Source Technologies
 
 
 ## Socials:
