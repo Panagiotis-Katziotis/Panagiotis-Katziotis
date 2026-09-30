@@ -15,5 +15,3 @@ I'm curenlty working on some personal project (Swan Browser, HeronOS)and some si
 ![Panagiotis-Katziotis's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Panagiotis-Katziotis&theme=material-palenight&hide_border=false)<br/>
 ![Panagiotis-Katziotis's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Panagiotis-Katziotis&theme=material-palenight&show_icons=true&hide_border=false&layout=compact)<br/>
 
-  ## You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/panagiotis_katziotis) 
