@@ -1,7 +1,8 @@
 ## Hi there
 
 # About Me:
-I'm curenlty working on some personal project (Swan Browser, HeronOS)and some side-projects.<br>Also I'm into Linux, Cybersecurity and Open-Source Technologies
+I'm a student, I like to code on my free time and experiment with music, phtography, videography and media in general, physical or digital. <br> 
+I'm curenlty working on a personal project (Swan Browser and more)and some side-projects.<br>Also I'm into Linux, Cybersecurity and Open-Source Technologies
 
 
 ## Socials:
